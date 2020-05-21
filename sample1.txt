@@ -1,0 +1,28 @@
+フォルダの作成
+    ・mkdir sampleでフォルダの作成
+
+フォルダの移動
+    ・cd　sample
+
+Gitの初期化
+    ・git init
+
+ファイルの作成
+    ・touch sample1.txt
+    ・touch sample2.txt
+
+Gitに追加
+    ・git add . まとめて追加
+
+追加されたかの確認
+    ・git statusを使いファイルが追加されているかの確認を行いまいました。
+
+Gitに登録
+    ・git commit -m　”コメント”
+
+URLを指定してリポジトリの更新
+    ・git remote add origin https:URLを指定してリポジトリの更新
+    ・git push origin master
+
+
+
